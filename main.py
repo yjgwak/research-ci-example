@@ -1,5 +1,5 @@
 def hello_world(a):
-    print(f"hello world {a}")  # test
+    return "Hello World!"
 
 
 if __name__ == "__main__":
