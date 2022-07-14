@@ -3,4 +3,4 @@ def hello_world(a):
 
 
 if __name__ == "__main__":
-    hello_world(a)
+    hello_world("test")

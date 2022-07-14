@@ -33,4 +33,4 @@ jobs:
         env:
           CODECLIMATE_REPO_TOKEN: 6e5da88e088f8bfd21316ac36948da4b832b1bf9e894ccb2897fbd47efdf2e19
         run: |
-          codeclimate-test-reporter
+          cc-test-reporter
