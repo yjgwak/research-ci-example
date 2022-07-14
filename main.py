@@ -1,6 +1,6 @@
 def hello_world(a):
-    print(f"hello world {a}")  # test
+    return f"Hello World! {a}"
 
 
 if __name__ == "__main__":
-    hello_world(a)
+    hello_world("test")
